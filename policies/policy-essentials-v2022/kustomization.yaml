@@ -26,3 +26,4 @@ resources:
 - psp-restrict_root_containers.yaml
 - restrict-clusteradmin-rolebindings.yaml
 - seccomp-default.yaml
+- K8sReplicaLimits.yaml
